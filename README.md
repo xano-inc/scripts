@@ -1,5 +1,3 @@
-# scripts
-
 Miscellaneous utility scripts for Xano instance management and deployment operations.
 
 This repository contains standalone shell scripts that assist with common administrative tasks for Xano cloud infrastructure. These scripts are designed to be portable and self-contained, requiring only standard CLI tools (kubectl, gcloud, etc.) without dependencies on the internal ops CLI or other Xano-specific tooling.
